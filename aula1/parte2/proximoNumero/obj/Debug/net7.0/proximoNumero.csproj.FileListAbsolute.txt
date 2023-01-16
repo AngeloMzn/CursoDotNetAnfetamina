@@ -1,0 +1,15 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\bin\Debug\net7.0\proximoNumero.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\bin\Debug\net7.0\proximoNumero.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\bin\Debug\net7.0\proximoNumero.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\bin\Debug\net7.0\proximoNumero.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\bin\Debug\net7.0\proximoNumero.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.csproj.AssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\refint\proximoNumero.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\proximoNumero.genruntimeconfig.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\trabalho\CursoDotNetAnfetamina\aula1\parte2\proximoNumero\obj\Debug\net7.0\ref\proximoNumero.dll
