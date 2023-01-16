@@ -1,4 +1,6 @@
-﻿System.Console.WriteLine("**********************");
+﻿using System.Threading.Channels;
+
+System.Console.WriteLine("**********************");
 //isso não faz nada
 Console.WriteLine("Hello, World!");
 
@@ -11,5 +13,21 @@ Console.WriteLine("Hello, World!");
 */
 System.Console.WriteLine("***********************");
 
-int a;
+//declaração de variáveis
+
+int a, b, x;
+
+//inicialiazação das variáveis
+
+a = 10;
+b = 20;
+
+//processamento 
+x = a + b;
+
+Console.WriteLine("Resultado: a + b = x");
+System.Console.WriteLine("a = " + a);
+System.Console.WriteLine("b = " + b);
+System.Console.WriteLine("x = " + x);
+System.Console.WriteLine(a + " + " + b + " = " + x);
 
