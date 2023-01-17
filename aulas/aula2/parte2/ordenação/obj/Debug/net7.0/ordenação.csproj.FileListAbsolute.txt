@@ -1,0 +1,15 @@
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\bin\Debug\net7.0\ordenação.exe
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\bin\Debug\net7.0\ordenação.deps.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\bin\Debug\net7.0\ordenação.runtimeconfig.json
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\bin\Debug\net7.0\ordenação.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\bin\Debug\net7.0\ordenação.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.csproj.AssemblyReference.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.AssemblyInfoInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.AssemblyInfo.cs
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\refint\ordenação.dll
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.pdb
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ordenação.genruntimeconfig.cache
+C:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\obj\Debug\net7.0\ref\ordenação.dll
