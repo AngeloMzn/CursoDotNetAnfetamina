@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ordenação
-build_property.ProjectDir = c:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte2\ordenação\
+build_property.RootNamespace = conceitos
+build_property.ProjectDir = c:\Users\Angelo Mazarin\Documents\codeCenter\cursos\CursoDotNet\CursoDotNetAnfetamina\aulas\aula2\parte1\conceitos\
